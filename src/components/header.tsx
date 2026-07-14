@@ -1,7 +1,7 @@
 function Header() {
   return (
-    <header>
-      <h1>AI Interaction Logger</h1>
+    <header className="bg-blue-600 text-white text-center p-5">
+      <h1 className="text-4xl font-bold">AI Interaction Logger</h1>
     </header>
   );
 }
